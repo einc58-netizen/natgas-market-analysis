@@ -13,9 +13,9 @@ Quantitative analysis of U.S. natural gas markets centered on Henry Hub spot pri
 
 ## Key Visualizations
 
-![GARCH Volatility](images/garch_volatility.png)
+![GARCH Volatility](garch_volatility.png)
 
-![SARIMA Forecast](images/sarima_forecast.png)
+![SARIMA Forecast](sarima_forecast.png)
 
 ---
 
