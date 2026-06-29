@@ -100,7 +100,7 @@ To use the dashboard, open `PowerBI_Report.pbix` in Power BI Desktop. The underl
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/yourusername/natgas-market-analysis.git
+git clone https://github.com/einc58-netizen/natgas-market-analysis.git
 cd natgas-market-analysis
 ```
 
